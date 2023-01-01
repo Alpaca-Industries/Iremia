@@ -508,11 +508,6 @@ hash = "5e5df5be1e30a6d0bc0c27aa350a4c604cf4850ed99121b6bac17f7c42c1ac80"
 metafile = true
 
 [[files]]
-file = "mods/holograms.pw.toml"
-hash = "4e481612b735669542f7946101183962951c61350f856529d13d571feada0ae5"
-metafile = true
-
-[[files]]
 file = "mods/image2map.pw.toml"
 hash = "68ea0fd596891df1bcd923de015b0992eb57eb8dc9083e94eeff8286b24a5e5b"
 metafile = true
