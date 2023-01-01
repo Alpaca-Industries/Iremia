@@ -1,0 +1,7 @@
+name = "luckperms-placeholders"
+filename = "LuckPerms-Fabric-PlaceholderAPI-Hook.jar"
+
+[download]
+url = "https://ci.lucko.me/job/LuckPermsPlaceholders/lastSuccessfulBuild/artifact/fabric-placeholderapi/build/libs/LuckPerms-Fabric-PlaceholderAPI-Hook.jar"
+hash-format = "sha1"
+hash = "45b76bf6c423efad426eb6ad9ebc15149dcdccf8"

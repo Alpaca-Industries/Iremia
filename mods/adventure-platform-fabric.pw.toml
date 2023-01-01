@@ -1,0 +1,7 @@
+name = "adventure-platform-fabric"
+filename = "adventure-platform-fabric-5.6.0.jar"
+
+[download]
+url = "https://repo1.maven.org/maven2/net/kyori/adventure-platform-fabric/5.6.0/adventure-platform-fabric-5.6.0.jar"
+hash-format = "sha1"
+hash = "1af591f65e20e2efd080cb285219c1ccaf59decf"

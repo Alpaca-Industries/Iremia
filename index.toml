@@ -413,6 +413,11 @@ file = "mods/adventure-platform-fabric-5.6.0.jar"
 hash = "b65f505ebdd61afb093f9f99b3cd6836d4eb4c8ef4e15b8046c734a7a8ed52e8"
 
 [[files]]
+file = "mods/adventure-platform-fabric.pw.toml"
+hash = "a49d2fc417ff17bc6b1e501b16cf0fe1c1a31c877332401ee1f64549ed8930c7"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "fda319290cfe268fdc7c6c6ca8dcad24e51c1de98442f23f2a41d657b26fc8d0"
 metafile = true
@@ -563,6 +568,11 @@ hash = "feaedf6b6d73530c0289d9c7aa4149823343d2a7f9893f7b81e8c7c003763f31"
 metafile = true
 
 [[files]]
+file = "mods/luckperms-placeholders.pw.toml"
+hash = "7e4534be945e38fc5cd68248471a102d146c1b333dc2a66c43f0e2eceeb0ad6b"
+metafile = true
+
+[[files]]
 file = "mods/luckperms.pw.toml"
 hash = "0cccc3f572cda0003a3fdcd1e69caff25dca302db09653ce5c3ca2f7e44be4f2"
 metafile = true
@@ -599,6 +609,11 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api-2.0.0-pre.2+1.19.3.jar"
 hash = "86faadfcb1e76d43decee20bb8d3c0abf2a0eef2f7647726f3a932cc482d9617"
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "7906dafef8b8888425a0bdce39622866b57cd5933c4616e45545febb60857eaa"
+metafile = true
 
 [[files]]
 file = "mods/plymouth-anti-xray.pw.toml"
