@@ -1,0 +1,13 @@
+name = "Craftable Enchanted Golden Apple"
+filename = "craftable_enchanted_golden_apple-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4CVPn6z8/versions/SVF4BV4i/craftable_enchanted_golden_apple-1.0.4.jar"
+hash-format = "sha1"
+hash = "c540f6e91413b8ba20425ef6cce6ef1c3521f0af"
+
+[update]
+[update.modrinth]
+mod-id = "4CVPn6z8"
+version = "SVF4BV4i"

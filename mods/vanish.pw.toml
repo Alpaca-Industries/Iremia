@@ -1,0 +1,13 @@
+name = "Vanish"
+filename = "vanish-1.3.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/UL4bJFDY/versions/CJn4dn3R/vanish-1.3.1.jar"
+hash-format = "sha1"
+hash = "01c85af3d6aec839ff27486c7d50c428fc0c8171"
+
+[update]
+[update.modrinth]
+mod-id = "UL4bJFDY"
+version = "CJn4dn3R"

@@ -1,0 +1,13 @@
+name = "Frameless"
+filename = "frameless-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Kn67X8e6/versions/1.0.1/frameless-1.0.1.jar"
+hash-format = "sha1"
+hash = "f707bf4e5cf0fc89298231f542b3bdf19f42b381"
+
+[update]
+[update.modrinth]
+mod-id = "Kn67X8e6"
+version = "4pyhse0M"
