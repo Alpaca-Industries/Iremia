@@ -1,10 +1,10 @@
 {
   "generic": {
     "language": "en_us",
-    "botToken": "MTA1Nzg5NjAwMjg4NDk5NzE4MQ.GTiwzF.0IqMkrogISz1QiqghvpPwhoYbTL5jMMHsGpOBc",
+    "botToken": "{{DISCORD_TOKEN}}",
     "botPlayingStatus": "https://youtu.be/X_8Nh5XfRw0",
     "botListeningStatus": "",
-    "webhookUrl": "https://discord.com/api/webhooks/1058125909237960804/bkrLzWeNyG9qksaIRK953lM8vVFbXikV8VcfSb6Sc1jlNWK7vH4vukQsecygIkWaKTAg",
+    "webhookUrl": "{{WEBHOOK_URL}}",
     "channelId": "985042585598963714",
     "consoleLogChannelId": "",
     "updateNotificationChannelId": "",
