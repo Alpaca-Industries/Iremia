@@ -30,7 +30,7 @@ hash = "bc22faeb151c936963e4f66e6f8e1a5cf4745b1c08f20e7b16ffb6b54a847aeb"
 
 [[files]]
 file = "config/bluemap/storages/sql.conf"
-hash = "f06c4c54911475a45c66d9137179e8890f08cafa44341edb077bc410292a1883"
+hash = "81cecdca7483c0270e2ffbb8dc08c995521347a0225f5cd4250e0f2f05b41ade"
 
 [[files]]
 file = "config/bluemap/webapp.conf"
@@ -90,7 +90,7 @@ hash = "c4dd5038dd03be11069fb138735f0e647cb9af9f50d6806842d6add6e922f854"
 
 [[files]]
 file = "config/ledger.toml"
-hash = "1227eca891c9a7b4018e51657c7c94259e0c21dec01d4d971afaa2d42ad08b96"
+hash = "1fffb8b74cc93476cca280ab7824e9e5a3624e1c76f98d871a93f119de619234"
 
 [[files]]
 file = "config/lithium.properties"
@@ -102,7 +102,7 @@ hash = "93f9fc9ca60f87b656cc8bba917e09924da6fb25d0cf309e62befc130908f729"
 
 [[files]]
 file = "config/luckperms/luckperms.conf"
-hash = "7ef6336959301ecbf06782e1e52d4885e5026927fb57e013c20fe285d7b51f61"
+hash = "ad272fa628eb84ace42ff0e91921c415d649afdfbaebf220ed68539617609126"
 
 [[files]]
 file = "config/luckperms/translations/repository/ar_SA.properties"
@@ -250,7 +250,7 @@ hash = "853094884ae09c289e738b3392106a1acc3bfecb0593dfaaa34cd32b46eaf0c7"
 
 [[files]]
 file = "config/mcdiscordchat.json"
-hash = "853094884ae09c289e738b3392106a1acc3bfecb0593dfaaa34cd32b46eaf0c7"
+hash = "39c6f47cae345823c302aad889c6f947874f7cde0de6da62bab4eb0bda1a2ed1"
 
 [[files]]
 file = "config/mmode.json"
@@ -294,7 +294,7 @@ hash = "55c0f61d05ac9745e06a0b09aa38a7f5581ada1d733e5dbe950033637ce7b348"
 
 [[files]]
 file = "config/spark/activity.json"
-hash = "7de60e4eafd91d2c01736ae8e4cc71ed0b08af49664ebe9519a2b4151fb062f1"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
 file = "config/spark/config.json"
@@ -303,70 +303,6 @@ hash = "230ef74f58b4ebfb809cc474e881be3462ede61d56a86437e935b4a3a1ac99f3"
 [[files]]
 file = "config/spark/tmp/about.txt"
 hash = "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
-
-[[files]]
-file = "config/spark/tmp/spark-1a7efe4efe79-libasyncProfiler.so.tmp"
-hash = "13c034cb1f6452de2892278de4c49df7d910499c37c275a32895e67a4fb2bc54"
-
-[[files]]
-file = "config/spark/tmp/spark-1aeecfaaf859-profile-data.jfr.tmp"
-hash = "0ef15be6d108df657127f73485f2808739440805c562922728fe25b78383ff05"
-
-[[files]]
-file = "config/spark/tmp/spark-235a9e1de2ac-libasyncProfiler.so.tmp"
-hash = "13c034cb1f6452de2892278de4c49df7d910499c37c275a32895e67a4fb2bc54"
-
-[[files]]
-file = "config/spark/tmp/spark-24115ff73931-profile-data.jfr.tmp"
-hash = "2c527fd1b3283a7a7684bca14145b2aa24b6d92ce4881086cc529ce94b7d2507"
-
-[[files]]
-file = "config/spark/tmp/spark-32626229f6-libasyncProfiler.so.tmp"
-hash = "13c034cb1f6452de2892278de4c49df7d910499c37c275a32895e67a4fb2bc54"
-
-[[files]]
-file = "config/spark/tmp/spark-327d3e82f3-profile-data.jfr.tmp"
-hash = "81b9e841d932719a956aa1975c89acf977e6e4cc334d0199989b4e0dda675625"
-
-[[files]]
-file = "config/spark/tmp/spark-62b463bf2632-libasyncProfiler.so.tmp"
-hash = "13c034cb1f6452de2892278de4c49df7d910499c37c275a32895e67a4fb2bc54"
-
-[[files]]
-file = "config/spark/tmp/spark-637d5843de45-profile-data.jfr.tmp"
-hash = "0b45d65ace7d917dd802a1f5aaeb6e745576051a608b8d95c13a1b81d152a8fc"
-
-[[files]]
-file = "config/spark/tmp/spark-63826b503926-profile-data.jfr.tmp"
-hash = "e7aac821dd30fef40cdc74bf8bee4dd7dd45e352f9d9d0d34e4e4baaee5300bc"
-
-[[files]]
-file = "config/spark/tmp/spark-6f233285324d-libasyncProfiler.so.tmp"
-hash = "13c034cb1f6452de2892278de4c49df7d910499c37c275a32895e67a4fb2bc54"
-
-[[files]]
-file = "config/spark/tmp/spark-6f234488cd39-profile-data.jfr.tmp"
-hash = "794e27acf1756f55340e0e2a58f64c082146df6f9f884d8f9590e18c7356aa30"
-
-[[files]]
-file = "config/spark/tmp/spark-72170e3495b2-libasyncProfiler.so.tmp"
-hash = "13c034cb1f6452de2892278de4c49df7d910499c37c275a32895e67a4fb2bc54"
-
-[[files]]
-file = "config/spark/tmp/spark-72171bdaf860-profile-data.jfr.tmp"
-hash = "0d3eef3118addbb3de0e24f296cf8f5bf2ae8ab8057f6ebbead2b127a0a44be6"
-
-[[files]]
-file = "config/spark/tmp/spark-722a095a9acf-profile-data.jfr.tmp"
-hash = "af608f6ed92833200b91c87e14f236de15dac4ed4408a94b7b4ade0eb0b53772"
-
-[[files]]
-file = "config/spark/tmp/spark-72e7fb911d5f-libasyncProfiler.so.tmp"
-hash = "13c034cb1f6452de2892278de4c49df7d910499c37c275a32895e67a4fb2bc54"
-
-[[files]]
-file = "config/spark/tmp/spark-731ff97e0a07-profile-data.jfr.tmp"
-hash = "67e13cfd622e9e9ec2c3e57edbb632b07f375b14664fb5430baa1a4fe34de990"
 
 [[files]]
 file = "config/styled-chat.json"
