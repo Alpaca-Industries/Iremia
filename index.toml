@@ -30,7 +30,7 @@ hash = "bc22faeb151c936963e4f66e6f8e1a5cf4745b1c08f20e7b16ffb6b54a847aeb"
 
 [[files]]
 file = "config/bluemap/storages/sql.conf"
-hash = "81cecdca7483c0270e2ffbb8dc08c995521347a0225f5cd4250e0f2f05b41ade"
+hash = "22fd754f87e77d6d7ffcd435bdffc3f94a69d2dd0edc0a535b404f20b6dd0f23"
 
 [[files]]
 file = "config/bluemap/webapp.conf"
