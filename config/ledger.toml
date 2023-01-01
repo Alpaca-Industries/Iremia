@@ -48,10 +48,10 @@ networking = true
 
 database = "MYSQL"
 
-url = "{{DB_HOST}}/{{DB_NAME}}"
+url = "llamaindustries.net:3306/s3_uwu"
 
-username = "{{DB_USERNAME}}"
+username = "u3_iW8VBstzh1"
 
-password = "{{DB_PASSWORD}}"
+password = "2i9w2ZK^i3eLIjteB5vs1Ow="
 
 properties = [] 
