@@ -14,3 +14,8 @@
 
 # Exclude exported Modrinth modpacks
 *.mrpack
+
+config/bluemap/storages/sql.conf
+config/luckperms/luckperms.conf
+config/ledger.toml
+config/mcdiscordchat.json
