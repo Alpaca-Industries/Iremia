@@ -405,12 +405,8 @@ file = "config/youritemsaresafe-fabric.json5"
 hash = "68efc8d575a7684e9a98e6b0676d41fcca3daab3d12f6fdabb6600d5ed63b95c"
 
 [[files]]
-file = "mods/LuckPerms-Fabric-PlaceholderAPI-Hook.jar"
-hash = "8725f502a6277a38be066c0c7b8a11a193381c0de8e1f5857debd67f282cbd04"
-
-[[files]]
-file = "mods/adventure-platform-fabric-5.6.0.jar"
-hash = "b65f505ebdd61afb093f9f99b3cd6836d4eb4c8ef4e15b8046c734a7a8ed52e8"
+file = "mods/MCDiscordChat-2.1.1.jar"
+hash = "5db5681e1c1bcc51b241e60a723bd2b85f728ae72a56725d09a3f409fc381e05"
 
 [[files]]
 file = "mods/adventure-platform-fabric.pw.toml"
@@ -583,11 +579,6 @@ hash = "67c35462dfbb273be06b239c8a20900d3178adada22b38ad31fe1341c0057239"
 metafile = true
 
 [[files]]
-file = "mods/mcdiscordchat.pw.toml"
-hash = "751086255d0b621d234614449618ce01108bb36c7d7bf305b8096621445d4454"
-metafile = true
-
-[[files]]
 file = "mods/mcunsafe-0.0.0-build.local.jar"
 hash = "a43b4194177d90e141d6214fe05e63879d94aa27ecf3b29252e3b0e6fef66dc8"
 
@@ -605,10 +596,6 @@ metafile = true
 file = "mods/perfect-accuracy.pw.toml"
 hash = "2256146bd9b62695a8f33739ff84476cd849ee0646e9961163980094226f857c"
 metafile = true
-
-[[files]]
-file = "mods/placeholder-api-2.0.0-pre.2+1.19.3.jar"
-hash = "86faadfcb1e76d43decee20bb8d3c0abf2a0eef2f7647726f3a932cc482d9617"
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
