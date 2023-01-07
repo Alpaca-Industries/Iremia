@@ -386,7 +386,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "7b992a32214fdd1d2d53407ca3750be41142e19873d991d48155959fd5d90b4f"
+hash = "07708d8f6b49da8c4deb77f7fea0dda45b471ec46a5191363c7bec8d63c23769"
 metafile = true
 
 [[files]]
@@ -411,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b2ea21adc33abc0e43c9a5f8c695eba3cd2d9dc6b435f1ae80fbc56a7f863017"
+hash = "f6bc53688790ec2d88c96568f6d7569bf0111931c569cf64b511cdbe95090c82"
 metafile = true
 
 [[files]]
@@ -605,12 +605,12 @@ metafile = true
 
 [[files]]
 file = "mods/styled-chat.pw.toml"
-hash = "010154edf04a822dc3da0078a83d1c74eafe855b8415e40ec0e5b562c4a4b2bc"
+hash = "cce1ae047ef9876ae73fc877e2a90809c0b8e5333a014a99f7a2531266b0890b"
 metafile = true
 
 [[files]]
 file = "mods/styled-nicknames.pw.toml"
-hash = "b36475b834f574ca8d0869aaa06078f2db34a4c78dc3cd1e816a4cac31eace02"
+hash = "8673c6bbfd81923421b731dcb37dc6e2d045fb4a0d0a7cc24dd1a04b81afd702"
 metafile = true
 
 [[files]]
@@ -645,5 +645,5 @@ metafile = true
 
 [[files]]
 file = "mods/your-items-are-safe.pw.toml"
-hash = "1ef5f81ecdc7874d71499cb39f99e817e904b0def4db81012ac37eeae4f423c7"
+hash = "2288b060f26fcb47ffd21a7c2ecf5e4ff194d14c3c64ac6d51b298a784a2cbbf"
 metafile = true
