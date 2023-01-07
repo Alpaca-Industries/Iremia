@@ -341,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/bluemap.pw.toml"
-hash = "4e7898f197ab1e750347cbc1dc6b2e6848e74b61240e5512d54ffe38a2741db1"
+hash = "6203696a5b15a15d42b2b4642ec5638ca0ff8742a373e67de48be6e25ed46c90"
 metafile = true
 
 [[files]]
@@ -366,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "0044b5aa4497a494566a3e60119ac27527f935ed62631ba0bca57d3343d6ef50"
+hash = "07708d8f6b49da8c4deb77f7fea0dda45b471ec46a5191363c7bec8d63c23769"
 metafile = true
 
 [[files]]
@@ -391,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b6f8dd724066667c1f859e2b31ab2bfcfdb66bb9df055282f0e57611ff83f6d4"
+hash = "f6bc53688790ec2d88c96568f6d7569bf0111931c569cf64b511cdbe95090c82"
 metafile = true
 
 [[files]]
@@ -486,7 +486,7 @@ metafile = true
 
 [[files]]
 file = "mods/luckperms.pw.toml"
-hash = "0cccc3f572cda0003a3fdcd1e69caff25dca302db09653ce5c3ca2f7e44be4f2"
+hash = "10adb8c5a5aab921443515680dd58a1369e1209ec4966fde0759d64f777f7525"
 metafile = true
 
 [[files]]
@@ -584,7 +584,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "413ce716e1ce679ff1097f1732023a5457ef5ec7b512d247ef087aeefd82d19b"
+hash = "2ee034b97afd4d0b75f0a1ccc8056fd2309ccc622f19ce654688f19a28247100"
 metafile = true
 
 [[files]]
@@ -594,12 +594,12 @@ metafile = true
 
 [[files]]
 file = "mods/styled-chat.pw.toml"
-hash = "010154edf04a822dc3da0078a83d1c74eafe855b8415e40ec0e5b562c4a4b2bc"
+hash = "cce1ae047ef9876ae73fc877e2a90809c0b8e5333a014a99f7a2531266b0890b"
 metafile = true
 
 [[files]]
 file = "mods/styled-nicknames.pw.toml"
-hash = "b36475b834f574ca8d0869aaa06078f2db34a4c78dc3cd1e816a4cac31eace02"
+hash = "8673c6bbfd81923421b731dcb37dc6e2d045fb4a0d0a7cc24dd1a04b81afd702"
 metafile = true
 
 [[files]]
@@ -634,5 +634,5 @@ metafile = true
 
 [[files]]
 file = "mods/your-items-are-safe.pw.toml"
-hash = "1ef5f81ecdc7874d71499cb39f99e817e904b0def4db81012ac37eeae4f423c7"
+hash = "2288b060f26fcb47ffd21a7c2ecf5e4ff194d14c3c64ac6d51b298a784a2cbbf"
 metafile = true

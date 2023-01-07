@@ -1,13 +1,13 @@
 name = "Your Items Are Safe"
-filename = "youritemsaresafe-fabric_1.19.3-2.2.jar"
+filename = "youritemsaresafe-1.19.3-3.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lL35xmSR/versions/kwtXB5wf/youritemsaresafe-fabric_1.19.3-2.2.jar"
+url = "https://cdn.modrinth.com/data/lL35xmSR/versions/jn3OYaFy/youritemsaresafe-1.19.3-3.0.jar"
 hash-format = "sha1"
-hash = "9f3be0e28740b0db8493de49eff318ada6f02543"
+hash = "b4bb800f640d5ff2a13b58e2bdfac37a80e4df92"
 
 [update]
 [update.modrinth]
 mod-id = "lL35xmSR"
-version = "kwtXB5wf"
+version = "jn3OYaFy"
