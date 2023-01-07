@@ -29,10 +29,6 @@ file = "config/bluemap/storages/file.conf"
 hash = "bc22faeb151c936963e4f66e6f8e1a5cf4745b1c08f20e7b16ffb6b54a847aeb"
 
 [[files]]
-file = "config/bluemap/storages/sql.conf"
-hash = "22fd754f87e77d6d7ffcd435bdffc3f94a69d2dd0edc0a535b404f20b6dd0f23"
-
-[[files]]
 file = "config/bluemap/webapp.conf"
 hash = "e444766d58682cde0cd489f315a47762fe7a9fc176c4a8a88729a3aeab818d8f"
 
@@ -89,20 +85,12 @@ file = "config/justplayerheads-fabric.json5"
 hash = "c4dd5038dd03be11069fb138735f0e647cb9af9f50d6806842d6add6e922f854"
 
 [[files]]
-file = "config/ledger.toml"
-hash = "1fffb8b74cc93476cca280ab7824e9e5a3624e1c76f98d871a93f119de619234"
-
-[[files]]
 file = "config/lithium.properties"
 hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
 
 [[files]]
 file = "config/luckperms/editor-keystore.json"
 hash = "93f9fc9ca60f87b656cc8bba917e09924da6fb25d0cf309e62befc130908f729"
-
-[[files]]
-file = "config/luckperms/luckperms.conf"
-hash = "ad272fa628eb84ace42ff0e91921c415d649afdfbaebf220ed68539617609126"
 
 [[files]]
 file = "config/luckperms/translations/repository/ar_SA.properties"
@@ -243,14 +231,6 @@ hash = "749818ed7785e91888857d69c198f783d8d23a5d3853ed11d9e4faea41d3e538"
 [[files]]
 file = "config/luckperms/translations/repository/zh_TW.properties"
 hash = "16a4ba3bff12be3c797a8019d6a425e644b3e6419bde2e33ba8f2780797ed19c"
-
-[[files]]
-file = "config/mcdiscordchat-backup.json"
-hash = "853094884ae09c289e738b3392106a1acc3bfecb0593dfaaa34cd32b46eaf0c7"
-
-[[files]]
-file = "config/mcdiscordchat.json"
-hash = "39c6f47cae345823c302aad889c6f947874f7cde0de6da62bab4eb0bda1a2ed1"
 
 [[files]]
 file = "config/mmode.json"
@@ -521,6 +501,15 @@ hash = "a43b4194177d90e141d6214fe05e63879d94aa27ecf3b29252e3b0e6fef66dc8"
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "5b43c0fc6904ad4480c8ed596411c6e24172f8320ccd63de97b4ce2e7e0f90a5"
+metafile = true
+
+[[files]]
+file = "mods/minimotd-fabric-mc1.19.3-2.0.10.jar"
+hash = "033f3212ee7217c3e21c34d9bb88453a34d51250e6ff52a6e9f4c975a6eaec5c"
+
+[[files]]
+file = "mods/minimotd.pw.toml"
+hash = "172b47fb8d5c24360855b00d027ce7ae1a71ff2bd1b52e84dbecca5185b68a66"
 metafile = true
 
 [[files]]
