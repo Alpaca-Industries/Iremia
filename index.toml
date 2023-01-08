@@ -15,6 +15,11 @@ hash = "fda319290cfe268fdc7c6c6ca8dcad24e51c1de98442f23f2a41d657b26fc8d0"
 metafile = true
 
 [[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "53baddcd243ed36dd148b38e8e0249a37e68f40d13b0d1a51149ebfa88b4b6b4"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "a4f74e9c9b335ed1761392e87226121eb50f6fd4c6d2b30c7202cf7397700541"
 metafile = true
@@ -43,10 +48,6 @@ metafile = true
 file = "mods/cloth-config.pw.toml"
 hash = "86498eb7f9326155844799dc57c1372fc5000b86f046994162cccd2e480a96ed"
 metafile = true
-
-[[files]]
-file = "mods/collective-1.19.3-6.12.jar"
-hash = "610bdffb4b3983970906fd2fca898b43c277f67f3c840b06b82cd376aff27a71"
 
 [[files]]
 file = "mods/collective.pw.toml"
