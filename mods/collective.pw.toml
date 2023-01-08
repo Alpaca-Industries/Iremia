@@ -1,13 +1,13 @@
 name = "Collective"
-filename = "collective-1.19.3-6.9.jar"
+filename = "collective-1.19.3-6.12.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/tuV0LNjg/collective-1.19.3-6.9.jar"
+url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/qsI9UaAd/collective-1.19.3-6.12.jar"
 hash-format = "sha1"
-hash = "c66cf5e06adbd2393aaefff35b8031c82551dcaf"
+hash = "cee814b85a69a7edd641688d465a613491c5db5d"
 
 [update]
 [update.modrinth]
 mod-id = "e0M1UDsY"
-version = "tuV0LNjg"
+version = "qsI9UaAd"
