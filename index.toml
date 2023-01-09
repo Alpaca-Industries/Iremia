@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "5b905e5ae037d35b06c61df09468901acd2dbe7b7fb9070dbd0d59194259ae05"
+hash = "fc5dd60388431a3d404302085bd94056773125d2799c9e650bb01caef94f78ad"
 metafile = true
 
 [[files]]
@@ -219,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "4802550f00966a194ff76a67e42ec4f2db6b54f36f0319fd23db69b5fa95a386"
+hash = "f52917306687b65eaad12ea1bec96ae4fde936abb0511c7d454b0f8e0757bfbe"
 metafile = true
 
 [[files]]
@@ -229,12 +229,12 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "16920ddc5db83c77a1625e6cb43b790e400470aaf7caaf48650d2aa2f10fb619"
+hash = "17b6e5194807872ec027e757b3f0dd51b64e1ff487d9242a96adc85ef4811a23"
 metafile = true
 
 [[files]]
 file = "mods/scaffolding-drops-nearby.pw.toml"
-hash = "666710e0c98b93cf57caa9f6eb90a464920c04dffa7d6e46c59e7ad94b52b3fa"
+hash = "d270d52e96d2ccba0017fad59ff713a623b6ae8a7168d17c73bbf12fdd9d0e77"
 metafile = true
 
 [[files]]
