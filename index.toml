@@ -50,12 +50,12 @@ hash = "86498eb7f9326155844799dc57c1372fc5000b86f046994162cccd2e480a96ed"
 metafile = true
 
 [[files]]
-file = "mods/collective-1.19.3-6.16.jar"
-hash = "4a4a36f698687b0a61f66cf5b00594d737c35a078b823b8e5361c4fbd6ace5c1"
+file = "mods/collective-1.19.3-6.17.jar"
+hash = "d1de7f69e5016c7dc7af3b61ebe2c49512bc514aa5d02c3dfebc1d4ed3ee950e"
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "36f9094e234785213316623949aba8b38eeb32cb2dc3a4fce424ca76265b2e22"
+hash = "8f6d796d78707afdcccd73d4996e05b06de989426bf53fbb306f529ba7447741"
 metafile = true
 
 [[files]]
