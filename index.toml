@@ -55,7 +55,7 @@ hash = "d1de7f69e5016c7dc7af3b61ebe2c49512bc514aa5d02c3dfebc1d4ed3ee950e"
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "8f6d796d78707afdcccd73d4996e05b06de989426bf53fbb306f529ba7447741"
+hash = "cf86d7176397603de43044c53adf8f27affa1b8f4e38017ef3d901948a497cd1"
 metafile = true
 
 [[files]]
@@ -135,12 +135,12 @@ metafile = true
 
 [[files]]
 file = "mods/just-mob-heads.pw.toml"
-hash = "779596ea2522c5c8ed82a76ddc3a82fcaaa141aebc34d5fe6c99ffb2ce460075"
+hash = "7942d6d1c9ec02d18c87f5145380bd6381333fc9ed108e705ff6adb709663256"
 metafile = true
 
 [[files]]
 file = "mods/just-player-heads.pw.toml"
-hash = "b6109a4f0be7c3856fc997ff1e4ea8a3fe567edfb8c4807f48507e2e1d8b16f4"
+hash = "9fb5495c8e88ec9b0031baa1c5b8b817231284f8730be8f299b6eb450ea9bffc"
 metafile = true
 
 [[files]]
@@ -219,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "f52917306687b65eaad12ea1bec96ae4fde936abb0511c7d454b0f8e0757bfbe"
+hash = "aa31031741702bc20d76d3f843c103c39a1a13aaea49e7003757b6913fc4b01c"
 metafile = true
 
 [[files]]
