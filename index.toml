@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/MCDiscordChat-1.19.3-2.1.2.jar"
-hash = "bff32c863b4257d6734103599263e42d4db4022eb93927990fe6fbda89a8fc80"
-
-[[files]]
 file = "mods/adventure-platform-fabric.pw.toml"
 hash = "a49d2fc417ff17bc6b1e501b16cf0fe1c1a31c877332401ee1f64549ed8930c7"
 metafile = true
@@ -181,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcdiscordchat.pw.toml"
-hash = "751086255d0b621d234614449618ce01108bb36c7d7bf305b8096621445d4454"
+hash = "ecc9c232077e2a4d70598ef572c6adf5c68219a19d4beab63b423165b61701de"
 metafile = true
 
 [[files]]
