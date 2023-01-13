@@ -176,11 +176,6 @@ hash = "67c35462dfbb273be06b239c8a20900d3178adada22b38ad31fe1341c0057239"
 metafile = true
 
 [[files]]
-file = "mods/mcdiscordchat.pw.toml"
-hash = "ecc9c232077e2a4d70598ef572c6adf5c68219a19d4beab63b423165b61701de"
-metafile = true
-
-[[files]]
 file = "mods/mcunsafe-0.0.0-build.local.jar"
 hash = "a43b4194177d90e141d6214fe05e63879d94aa27ecf3b29252e3b0e6fef66dc8"
 
