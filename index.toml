@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "59c604518591548ffc26ec62678dc33eccddf6a9fc80237102ff22391f5b5dca"
+hash = "b1ff809ec34348860c3a403f3d5210f7386ddcda8f0d19c5ff4533fd22abeb08"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "cf86d7176397603de43044c53adf8f27affa1b8f4e38017ef3d901948a497cd1"
+hash = "df5476526bb499377840eba1a75c7d1705f4fee99c24b0d9b551c14a86a65696"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/dragon-drops-elytra.pw.toml"
-hash = "dd731d3ce7cd59dd2c74d8596608d8896d18c31e104b8ffe99623acaa7746b92"
+hash = "06e811cb80b613f04426ebef9768d7bac42c00e17d2094396bed39aef4bd6e7e"
 metafile = true
 
 [[files]]

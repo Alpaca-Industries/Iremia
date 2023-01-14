@@ -1,13 +1,13 @@
 name = "Dragon Drops Elytra"
-filename = "dragondropselytra-fabric_1.19.3-2.1.jar"
+filename = "dragondropselytra-1.19.3-3.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DPkbo3dg/versions/rGYsuzjH/dragondropselytra-fabric_1.19.3-2.1.jar"
+url = "https://cdn.modrinth.com/data/DPkbo3dg/versions/rblmPR4N/dragondropselytra-1.19.3-3.0.jar"
 hash-format = "sha1"
-hash = "58452e2b957bca909c5cb158c0fe8c79fef10533"
+hash = "0cfde941d717176e780af605e7837d51d5672e94"
 
 [update]
 [update.modrinth]
 mod-id = "DPkbo3dg"
-version = "rGYsuzjH"
+version = "rblmPR4N"
