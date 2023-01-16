@@ -61,11 +61,6 @@ hash = "e6ce78af13cd662ab6dedf5c67d8b9d9210b66242593cf1be08f45ed935d4af7"
 metafile = true
 
 [[files]]
-file = "mods/discord4fabric.pw.toml"
-hash = "eef4678890fcb33bc6dbb51767c49ff90d0a2316627d4cfc6b35d89089682e4a"
-metafile = true
-
-[[files]]
 file = "mods/dragon-drops-elytra.pw.toml"
 hash = "06e811cb80b613f04426ebef9768d7bac42c00e17d2094396bed39aef4bd6e7e"
 metafile = true
