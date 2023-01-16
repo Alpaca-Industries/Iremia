@@ -1,0 +1,13 @@
+name = "Fabric2Discord"
+filename = "f2d-2.1.0+1.19.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/EyyEnN7W/versions/G6lU62mx/f2d-2.1.0%2B1.19.3.jar"
+hash-format = "sha1"
+hash = "90ea3ead57752abc69c70a508f7ba6fc9ecb4455"
+
+[update]
+[update.modrinth]
+mod-id = "EyyEnN7W"
+version = "G6lU62mx"

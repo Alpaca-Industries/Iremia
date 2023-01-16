@@ -61,11 +61,6 @@ hash = "e6ce78af13cd662ab6dedf5c67d8b9d9210b66242593cf1be08f45ed935d4af7"
 metafile = true
 
 [[files]]
-file = "mods/dcintegration.pw.toml"
-hash = "1eafa3ffb7d56fe461192488f82c2e39288aad6e20fe6a52a4d0f76b926c89df"
-metafile = true
-
-[[files]]
 file = "mods/dragon-drops-elytra.pw.toml"
 hash = "06e811cb80b613f04426ebef9768d7bac42c00e17d2094396bed39aef4bd6e7e"
 metafile = true
@@ -83,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "c985bc9064cc29094fdfd59a037baa1523778cc2a9e5665c3f1b6ca0efe6a543"
+metafile = true
+
+[[files]]
+file = "mods/fabric2discord.pw.toml"
+hash = "1e1c0480995ef67eb9caf5b788a3ea83bdc4a25e9c32e57a3c2f99c8a6642d87"
 metafile = true
 
 [[files]]
