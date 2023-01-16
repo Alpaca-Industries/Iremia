@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/bmarker.pw.toml"
-hash = "3705284406fd73d86f68ccb2a5a970e041f5908b2aca35029f65c9a8c9fb16e7"
+hash = "3549d3919aef43543422a2edda9c5ffb1d1434455e6f2f9e1a51d7617b297b34"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "df5476526bb499377840eba1a75c7d1705f4fee99c24b0d9b551c14a86a65696"
+hash = "09dafdfa3f1b603ea9543010aebdbb0aec40b2e487be9069fbadf1a94cc4c1d1"
 metafile = true
 
 [[files]]
@@ -251,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "5673b738a46a03bc5fc7c1ee6d3b808b25f7a4ef0d24f85ab7c881f943c43a2b"
+hash = "3eb33b43cb00b3bdac6ea2566183b9eb2d4cd30ff22d6d40710dc1a6236ca22e"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "2ee034b97afd4d0b75f0a1ccc8056fd2309ccc622f19ce654688f19a28247100"
+hash = "413ce716e1ce679ff1097f1732023a5457ef5ec7b512d247ef087aeefd82d19b"
 metafile = true
 
 [[files]]
