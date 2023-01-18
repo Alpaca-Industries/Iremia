@@ -1,0 +1,13 @@
+name = "SaLIR (Server List Image Randomizer)"
+filename = "serverlistimagerandomizer-1.5-SNAPSHOT.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/MwH9AF2M/versions/1.5-SNAPSHOT/serverlistimagerandomizer-1.5-SNAPSHOT.jar"
+hash-format = "sha1"
+hash = "9295a7317f2ffea6a39d75986f4fbade70443f70"
+
+[update]
+[update.modrinth]
+mod-id = "MwH9AF2M"
+version = "C85SczBz"

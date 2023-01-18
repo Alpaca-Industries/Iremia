@@ -225,6 +225,11 @@ hash = "17b6e5194807872ec027e757b3f0dd51b64e1ff487d9242a96adc85ef4811a23"
 metafile = true
 
 [[files]]
+file = "mods/salir.pw.toml"
+hash = "a9262e4a280300a9ff6e3b17d3a83f1459080f3fb68601f04cb8473717a906c5"
+metafile = true
+
+[[files]]
 file = "mods/scaffolding-drops-nearby.pw.toml"
 hash = "d270d52e96d2ccba0017fad59ff713a623b6ae8a7168d17c73bbf12fdd9d0e77"
 metafile = true
