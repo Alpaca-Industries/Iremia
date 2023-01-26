@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "a4f74e9c9b335ed1761392e87226121eb50f6fd4c6d2b30c7202cf7397700541"
+hash = "c0a2cd69f456aa82a478794dc857ecadc3f1fd5a81fe8e24d8ffc7c4a0ed649c"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "a376c4887dfa0b297ac00c89f5d3cdd2db9fd930163eca2749b673e8e26cbb81"
+hash = "c27782dcc93775f43f891578600d6d74432bf33f9a3950847a4f3ab6abe5318a"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f6bc53688790ec2d88c96568f6d7569bf0111931c569cf64b511cdbe95090c82"
+hash = "2016f830858dd16f7a887adbbd1473dd4afcee360b677ea188bdc620c402c8c6"
 metafile = true
 
 [[files]]
@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/plymouth-anti-xray.pw.toml"
-hash = "4809dda00e0db763f5dd8a58ddafb5d75d70ba4c3a1ec764a95865d208428b44"
+hash = "bed4d768ae543fbb83dbd07ca3a3b06d9daa5815af39924d9127af8beccd59ea"
 metafile = true
 
 [[files]]
@@ -311,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanish.pw.toml"
-hash = "e183d5d88c9f986b3c0e7e0e446c802ea611708238bfd5e5bd5a0042a3a9b7ea"
+hash = "b03853d65933816ada138a99a550b97cfb85b20cbb808ad830f58ec168f1f72c"
 metafile = true
 
 [[files]]
@@ -321,7 +321,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "930afd91b92eb34ec0706647028327674fa7ada4a4395e8b7dca1e4e1c4d839c"
+hash = "41a56b1953b559ed4b52f29dde563428f70c20fe761cb7c50275c4c530e5fbe3"
 metafile = true
 
 [[files]]
