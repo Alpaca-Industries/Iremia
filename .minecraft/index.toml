@@ -86,11 +86,6 @@ hash = "1e1c0480995ef67eb9caf5b788a3ea83bdc4a25e9c32e57a3c2f99c8a6642d87"
 metafile = true
 
 [[files]]
-file = "mods/fabrictailor.pw.toml"
-hash = "1a2ba8df24ed0688cd0728004b51d7409d9afbee9c23479ea8be2fa00c9f0f56"
-metafile = true
-
-[[files]]
 file = "mods/fallingtree.pw.toml"
 hash = "8ed5d7d30997e5a8153d4ca40af8add2439d676f2b1bfba7f48de492a2e3bf45"
 metafile = true
