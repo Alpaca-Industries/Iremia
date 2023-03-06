@@ -1,13 +1,13 @@
 name = "Just Player Heads"
-filename = "justplayerheads-1.19.3-3.0.jar"
+filename = "justplayerheads-1.19.3-3.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/YdVBZMNR/versions/ZJdtLCHX/justplayerheads-1.19.3-3.0.jar"
+url = "https://cdn.modrinth.com/data/YdVBZMNR/versions/AMTKG9hs/justplayerheads-1.19.3-3.1.jar"
 hash-format = "sha1"
-hash = "bbcd802aedce406467fd19642b639ca8e235ac8d"
+hash = "2e1db09d90633df669dd551b42fa6b11054658b5"
 
 [update]
 [update.modrinth]
 mod-id = "YdVBZMNR"
-version = "ZJdtLCHX"
+version = "AMTKG9hs"
