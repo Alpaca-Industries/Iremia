@@ -36,10 +36,6 @@ hash = "b1ff809ec34348860c3a403f3d5210f7386ddcda8f0d19c5ff4533fd22abeb08"
 metafile = true
 
 [[files]]
-file = "mods/c2me-natives-opts-mc1.19.3-0.2.0alpha.9.88.jar"
-hash = "24e4e3573fdf102c2052865b3bed77c78cd8ad5c476462c4e8c2fc26b8a513f4"
-
-[[files]]
 file = "mods/carpet.pw.toml"
 hash = "64858dde2ddc095fc4ac29bcc2bcb6f397bc01890c0b71f78f309e0dcc3243b4"
 metafile = true
