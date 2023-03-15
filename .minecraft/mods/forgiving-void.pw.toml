@@ -1,13 +1,13 @@
 name = "Forgiving Void"
-filename = "forgivingvoid-fabric-1.19.3-8.0.1.jar"
+filename = "forgivingvoid-fabric-1.19.4-9.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1vkzEZjE/versions/BKElCxsz/forgivingvoid-fabric-1.19.3-8.0.1.jar"
+url = "https://cdn.modrinth.com/data/1vkzEZjE/versions/sYne2axd/forgivingvoid-fabric-1.19.4-9.0.1.jar"
 hash-format = "sha1"
-hash = "4e3edb2f54d45f64c1148df94dc8445420d7be4e"
+hash = "caf5a527410106f3055231c11167d0446501eb47"
 
 [update]
 [update.modrinth]
 mod-id = "1vkzEZjE"
-version = "BKElCxsz"
+version = "sYne2axd"
